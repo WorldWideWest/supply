@@ -14,4 +14,5 @@ Then type in: sup;
 7. To see the list of bill's type in: fakture/Fakture;
 8. To open the bill and see it's content type: hn;
 9. When you inside hn type in the name of the bill;
+10. To add a bill type: inpf;
 THANK YOU!
