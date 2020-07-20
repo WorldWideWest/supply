@@ -1,4 +1,4 @@
-# dzeno
+# supply
 this is a basic project that handels incoming bill's if you want it to work proporetly you need to change some thing.
 1. Inside the supply.cpp class change the path to your needs (line 41-42) the path is needed to create the folder which will be used for
    saving individual bills.
